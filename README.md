@@ -15,8 +15,8 @@
 
 <h4 align="left">ДЛЯ СВЯЗИ</h4>
 
-
-![tg](https://github.com/janesheshera/janesheshera/assets/63310859/8dbd9517-2ff0-4bc8-8498-14d8e3dcf7ef) <a href="https://t.me/ja2she">telegram</a><br>
+<img src="https://github.com/janesheshera/janesheshera/assets/63310859/8dbd9517-2ff0-4bc8-8498-14d8e3dcf7ef.png" height="30"/>
+<a href="https://t.me/ja2she">telegram</a><br>
 
 
 <!--
