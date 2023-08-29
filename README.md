@@ -13,9 +13,9 @@
 <a href="https://github.com/janesheshera/Job_satisfaction_Phyton"> Анализ удовлетворенности сотрудниками работой и прогнозирование увольнений (Python)</a><br>
 <a href="https://github.com/janesheshera/Bank_clients_Phyton"> Анализ и прогнозирование отказа клиентов от использования кредитных карт (Python)</a><br>
 
+<h4 align="left">ДЛЯ СВЯЗИ</h4>
 
-
-
+<a href="https://t.me/ja2she"> ![tg](https://github.com/janesheshera/janesheshera/assets/63310859/3ee743da-028a-40bc-8d91-f95b13b8d408)</a><br>
 
 
 <!--
