@@ -16,7 +16,7 @@
 <h4 align="left">ДЛЯ СВЯЗИ</h4>
 
 <img src="https://github.com/janesheshera/janesheshera/assets/63310859/8dbd9517-2ff0-4bc8-8498-14d8e3dcf7ef.png" height="30"/>
-<a href="https://t.me/ja2she" target="_blank">telegram</a><br>
+<a href="https://t.me/ja2she">telegram</a><br>
 
 <details>
  <summary><h4>Диплом и благодарность</h4></summary>
