@@ -23,5 +23,3 @@
 <a href="https://github.com/janesheshera/janesheshera/assets/63310859/1f102d8f-7e90-4996-afa6-5cbcd4ce57b3" target="_blank">Диплом Аналитик данных</a><br>
 <a href="https://github.com/janesheshera/janesheshera/assets/63310859/431234f2-3790-4e6d-a9a0-73c0cdc2018e" target="_blank">Благодарность</a><br>
 </details>
-
-<h6>*все ссылки открываются в текущем окне</h6>
