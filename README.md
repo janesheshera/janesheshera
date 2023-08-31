@@ -16,20 +16,10 @@
 <h4 align="left">ДЛЯ СВЯЗИ</h4>
 
 <img src="https://github.com/janesheshera/janesheshera/assets/63310859/8dbd9517-2ff0-4bc8-8498-14d8e3dcf7ef.png" height="30"/>
-<a href="https://t.me/ja2she">telegram</a><br>
+<a href="https://t.me/ja2she" target="_blank">telegram</a><br>
 
-
-<!--
-**janesheshera/janesheshera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+ <summary><h4>Диплом и благодарность</h4></summary>
+* <a href="https://github.com/janesheshera/janesheshera/assets/63310859/1f102d8f-7e90-4996-afa6-5cbcd4ce57b3" target="_blank">Диплом Аналитик данных</a><br>
+* <a href="https://github.com/janesheshera/janesheshera/assets/63310859/431234f2-3790-4e6d-a9a0-73c0cdc2018e" target="_blank">Благодарность</a><br>
+</details>
