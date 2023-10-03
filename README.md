@@ -8,10 +8,10 @@
 ![](https://img.shields.io/badge/BI-Tableau,_DataLens-4AB197) <br>
 
 <h4 align="left">ПРОЕКТЫ</h4>
+<a href="https://github.com/janesheshera/Bank_clients_Phyton"> Анализ и прогнозирование отказа клиентов от использования кредитных карт (Python)</a><br>
+<a href="https://github.com/janesheshera/Job_satisfaction_Phyton"> Анализ удовлетворенности сотрудниками работой и прогнозирование увольнений (Python)</a><br>
 <a href="https://github.com/janesheshera/Air_flights_SQL"> Анализ авиаперелетов и пассажиропотока (SQL)</a><br>
 <a href="https://github.com/janesheshera/DVD_rental_SQL"> Анализ деятельности сети магазинов проката DVD-дисков (SQL)</a><br>
-<a href="https://github.com/janesheshera/Job_satisfaction_Phyton"> Анализ удовлетворенности сотрудниками работой и прогнозирование увольнений (Python)</a><br>
-<a href="https://github.com/janesheshera/Bank_clients_Phyton"> Анализ и прогнозирование отказа клиентов от использования кредитных карт (Python)</a><br>
 
 <h4 align="left">ДЛЯ СВЯЗИ</h4>
 
